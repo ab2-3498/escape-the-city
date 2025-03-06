@@ -1,0 +1,14 @@
+{
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDcwNzc3Nzc3MDAwMDAwMDA3Nzc3Nzc3NzA3MDAwMDdmNzc3Nzc3Nzc3NzBmMDA4Zjg4Nzc3Nzg3ODgwZjAwOGY4ODc4Nzc4ODg4MGYwMDhmODg4Yzg4OGM4ODBmMDA4Zjg4ODg4ODg4ODgwZjAwNzA4ODg4ODg4Yzc4MDAwMDcwODc4OGNjODg3NzAwMDAwMDc3Y2M4ODc4MDcwMDAwMDA3Zjc3Nzc3NzBmMDAwMDAwMGYwMDAwMDAwZjAwMDBmMDBmMDAwMDAwMGYwMDAwMDAwMDAwMDAwMGZmMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA3Nzc3NzcwNzAwMDAwMDcwNzc3Nzc3NzcwMDAwZjA3Nzc3Nzc3Nzc3ZjcwMGYwODg3ODc3Nzc4OGY4MDBmMDg4ODg3Nzg3ODhmODAwZjA4OGM4ODhjODg4ZjgwMGYwODg4ODg4ODg4OGY4MDAwMDg3ODg4OGM4ODgwNzAwMDA3Nzg4Yzg4Yzc4MDcwMDAwNzBjNzhjODg3NzAwMDAwMGYwNzc3Nzc3ZjcwMDAwMDBmMDAwMDAwMGYwMDAwMDAwZjAwMDAwMDBmMDBmMDAwMGZmMDAwMDAwMDAwMDAw",
+        "displayName": "goober"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
